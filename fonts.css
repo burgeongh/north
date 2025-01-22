@@ -1,0 +1,86 @@
+.usual{
+  color: #004A43;
+  font-family: sans-serif;
+}
+
+.link{
+  color: #7D77FC;
+  font-family: sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.link2{
+  color: #58D1BD;
+  text-decoration: underline;
+  cursor: pointer;
+  margin: 0;
+}
+
+.giant{
+  font-size: 48px;
+  color: #004A43;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 0;
+  line-height: 70px;
+  width: 430px;
+}
+
+.large{
+  font-size: 32px;
+  color: #004A43;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin: 0;
+  display: inline-block;
+}
+
+.large2{
+  font-size: 18px;
+  font-weight: bold;
+  color: #004A43;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.large-white{
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+
+
+.avarage{
+  font-size: 24px;
+  color: #345E5A;
+  width: 500px;
+}
+
+.avarage2{
+  font-size: 21px;
+  font-family: sans-serif;
+  color: #345E5A;
+  display: inline-block;
+  margin: 0;
+}
+
+
+.small{
+  font-size: 15px;
+  color: #345E5A;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.small-white{
+  color: #D8EBE9;
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 0;
+  display: inline-block;
+}
+
